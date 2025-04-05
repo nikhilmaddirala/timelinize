@@ -16,3 +16,7 @@ sudo apt update
 sudo apt install libheif-dev libheif1 -y
 
 sudo apt install libsqlite3-dev
+
+sudo apt install ffmpeg
+
+curl -LsSf https://astral.sh/uv/install.sh | sh
